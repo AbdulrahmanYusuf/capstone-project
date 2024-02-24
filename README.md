@@ -1,4 +1,5 @@
-# capstone-project
+# Capstone-project-Team-1
+
 ![image](https://github.com/smaliyu/capstone-project/assets/98468845/6f1bf644-8334-4926-8715-2fcf1da61e8e)
 
 # Brain Tumor Classification Project
